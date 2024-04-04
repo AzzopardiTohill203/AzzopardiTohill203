@@ -1,0 +1,19 @@
+{
+  "name": "teapackage-azzoparditohill203",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AzzopardiTohill203/AzzopardiTohill203.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AzzopardiTohill203/AzzopardiTohill203/issues"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
